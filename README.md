@@ -14,7 +14,7 @@ run_parameter_estimation.py (executable)
 <ol>This script runs the parameter estimation for all samples specified in the input file 'input_filenames_estimation.csv'.
 The sample sets specified there, are searched in the folder 'input_data'.
 The parameter estimation is run 10 times, with different random seeds.
-The parameters obtained such are stored to the outputf iles in folder 'output'.
+The parameters obtained such are stored to the output files in folder 'output'.
 The output files are named the same as the input files, with the prefix 'param'.
 
 </ol> run_simulation.py (executable)
