@@ -1,0 +1,10 @@
+manufacturer;product;HP-Type;compressor type;refrigerant;source composition;load composition;pressure source;pressure load;compute source;flow type source;flow type load
+eltron_stiebel;WPL_10;w-w;scroll;R410a;INCOMP::AN[0.2];water;301325;201325;0;l/s;l/s
+HP-Data;;;;;;;;;;;
+Time Stamp;m_s;m_l;T_s;T_l;q_source;q_load;w_el;comment;;;
+22.05.2019 03:09:27.145 PM;0.4476;0.3087;-0.5624;35.0576;7.7329;9.6057;2.337;;;;
+22.05.2019 04:17:16.229 PM;0.4454;0.309;-0.1448;44.9714;6.7317;8.3961;2.986;;;;
+22.05.2019 02:56:02.145 PM;0.455;0.3137;10.382;35.0008;11.0074;12.1661;2.307;;;;
+22.05.2019 03:53:29.198 PM;0.4637;0.3145;10.1816;41.6315;9.8529;11.7466;2.823;;;;
+22.05.2019 02:36:31.121 PM;0.4478;0.3099;19.5074;35.1;13.383;15.4207;2.209;;;;
+22.05.2019 03:38:18.160 PM;0.4547;0.3105;20.3466;43.9131;13.0171;14.4464;2.813;;;;
